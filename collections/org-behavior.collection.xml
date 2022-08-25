@@ -1,29 +1,14 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Britney Blodget">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col29953</md:content-id>
-  <md:title>Org. Behavior </md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>574abed4-466a-48d2-a8c1-7a25baf533ac</md:uuid>
-<md:slug>org-behavior</md:slug>
-</metadata>
-
+    <md:content-id>col29953</md:content-id>
+    <md:title>Org. Behavior </md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>574abed4-466a-48d2-a8c1-7a25baf533ac</md:uuid>
+    <md:slug>org-behavior</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m78577"/>
-        
-      
-    
+    <col:module document="m78577"/>
   </col:content>
 </col:collection>
